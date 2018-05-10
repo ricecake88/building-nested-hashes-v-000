@@ -30,5 +30,4 @@ puts epic_tragedy[:capulet][:heroine][:status]
   epic_tragedy
 end
 
-epic = epic_tragedy[:capulet][:heroine][:status]
-puts(epic)
+puts epic_tragedy[:capulet][:heroine][:status]
