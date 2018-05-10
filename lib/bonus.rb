@@ -30,5 +30,5 @@ puts epic_tragedy[:capulet][:heroine][:status]
   epic_tragedy
 end
 
-epic = bonus
+epic = epic_tragedy[:capulet][:heroine][:status]
 puts(epic)
